@@ -4,7 +4,7 @@ var trabajos = [{
     title: "Banca de terciado",
     about: "Banca de terciado de 3 milímetros, de 1.20x0.3x0.4 mts."
 }, {
-    figure: "media/boncina_lopez-maige-suarez_2018.jpg",
+    figure: "media/boncina_lopez-maige-suarez-2018.jpg",
     alt: "Bonciña",
     title: "Bonciña",
     about: "Producto alimenticio en base a gelatina de aga-agar, açai y leche condensada, en una galleta de granola, quinoa y coco."
