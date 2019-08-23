@@ -22,7 +22,7 @@ body{
 }
 
 h1, h2{
-    font-family: 'Montserrat', serif;
+    font-family: 'Montserrat', sans-serif;
     color:#FFFFFF; /* lo básico, para evitar problemas */
     color:rgba(255,255,255,0.8); /* si el navegador lo entiende, lo usa */
     text-align:center;
