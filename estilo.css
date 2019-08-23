@@ -27,7 +27,7 @@ h1, h2{
     color:rgba(255,255,255,0.8); /* si el navegador lo entiende, lo usa */
     text-align:center;
     letter-spacing:0.1em;
-    font-weight:700;
+    font-weight:900;
 }
 
 h1{
