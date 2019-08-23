@@ -1,8 +1,8 @@
 var trabajos = [{
-    figure: "media/trabajo-01-desfile.jpg",
-    alt: "Descripción de la imagen",
-    title: "Título de primer trabajo",
-    about: "Texto simulado de descripción de primer trabajo"
+    figure: "media/eym1s_catalan-lopez-maige_2019.jpg",
+    alt: "banca_terciado3mm",
+    title: "Banca de terciado",
+    about: "Banca de terciado de 3 milímetros, de 1.20x0.3x0.4 mts."
 }, {
     figure: "media/trabajo-02-app.jpg",
     alt: "Descripción de la imagen",
