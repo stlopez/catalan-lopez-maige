@@ -24,10 +24,10 @@ var trabajos = [{
     title: "Abstracción Alcatraz",
     about: "Abstracción de un alcatraz en papel hilado 180"
 }, {
-    figure: "media/trabajo-06-textil.jpg",
-    alt: "Descripción de la imagen",
-    title: "Título de sexto trabajo",
-    about: "Texto simulado de descripción de sexto trabajo"
+    figure: "media/oma_lopez-maige-suarez-vallejos_2018.jpg",
+    alt: "oma",
+    title: "OMA",
+    about: "Dispositivo asd"
 }, {
     figure: "media/trabajo-07-materiales.jpg",
     alt: "Descripción de la imagen",
