@@ -215,7 +215,7 @@ AHORA VAMOS POR PORTAFOLIO
 #portafolio{
     width:100%;
     padding:.25% 0;
-    background:linear-gradient(to bottom, #ffcccc, #cc3333, #33ffcc);
+    background:linear-gradient(to bottom, #ffcccc, #ffffff);
 }
 
 .item {
