@@ -9,17 +9,17 @@ var trabajos = [{
     title: "Bonciña",
     about: "Producto alimenticio en base a gelatina de aga-agar, açai y leche condensada, en una galleta de granola, quinoa y coco."
 }, {
-    figure: "insectnativ-catalan-2019.jpg",
+    figure: "media/insectnativ-catalan-2019.jpg",
     alt: "Descripción de la imagen",
     title: "Título de tercer trabajo",
     about: "Estampado en tela"
 }, {
-    figure: "myp1s_bonnefoy-lobos-lopez-ramirez-saldivia_2017.jpg",
+    figure: "media/myp1s_bonnefoy-lobos-lopez-ramirez-saldivia_2017.jpg",
     alt: "Descripción de la imagen",
     title: "Título de cuarto trabajo",
     about: "Texto simulado de descripción de cuarto trabajo"
 }, {
-    figure: "alcatraz-maige-2017.jpg",
+    figure: "media/alcatraz-maige-2017.jpg",
     alt: "alcatraz papel",
     title: "Abstracción Alcatraz",
     about: "Abstracción de un alcatraz en papel hilado 180"
