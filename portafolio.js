@@ -14,15 +14,15 @@ var trabajos = [{
     title: "Título de tercer trabajo",
     about: "Estampado en tela"
 }, {
-    figure: "media/trabajo-04-editorial.jpg",
+    figure: "myp1s_bonnefoy-lobos-lopez-ramirez-saldivia_2017.jpg",
     alt: "Descripción de la imagen",
     title: "Título de cuarto trabajo",
     about: "Texto simulado de descripción de cuarto trabajo"
 }, {
-    figure: "media/trabajo-05-artesania.jpg",
-    alt: "Descripción de la imagen",
-    title: "Título de quinto trabajo",
-    about: "Texto simulado de descripción de quinto trabajo"
+    figure: "alcatraz-maige-2017.jpg",
+    alt: "alcatraz papel",
+    title: "Abstracción Alcatraz",
+    about: "Abstracción de un alcatraz en papel hilado 180"
 }, {
     figure: "media/trabajo-06-textil.jpg",
     alt: "Descripción de la imagen",
