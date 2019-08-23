@@ -9,10 +9,10 @@ var trabajos = [{
     title: "Bonciña",
     about: "Producto alimenticio en base a gelatina de aga-agar, açai y leche condensada, en una galleta de granola, quinoa y coco."
 }, {
-    figure: "media/trabajo-03-homy.jpg",
+    figure: "insectnativ-catalan-2019.jpg",
     alt: "Descripción de la imagen",
     title: "Título de tercer trabajo",
-    about: "Texto simulado de descripción de tercer trabajo"
+    about: "Estampado en tela"
 }, {
     figure: "media/trabajo-04-editorial.jpg",
     alt: "Descripción de la imagen",
