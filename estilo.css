@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Livvic&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,900&effect=anaglyph');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600,900&effect=anaglyph');
 
 /* 
 
@@ -28,17 +28,19 @@ h1, h2{
     margin-left:4rem;
     text-align:left;
     letter-spacing:0.1em;
-    font-weight:900;
+    
 }
 
 h1{
     font-size:4rem;
     margin-top:3rem;
+    font-weight:900;
 }
 
 h2{
     font-size:2rem;
     letter-spacing:0.1em;
+    font-weight:600;
 }
 
 @media screen and (max-width: 768px){
