@@ -39,13 +39,13 @@ var trabajos = [{
     alt: "estoy",
     title: "estoy?",
     about: "Acrílico sobre tela, 160x75cms.",
-    url: "https://www.google.cl/"
+    url: "https://www.instagram.com/p/B1j3yZ-BijT/?igshid=1l51r9gxk66ry"
 }, {
     figure: "media/fiori_lopez_2017.jpg",
     alt: "Fiori",
     title: "Fiori",
     about: "Acuarela sobre papel, 45x21cms.",
-    url: "https://www.google.cl/"
+    url: "https://www.instagram.com/p/B1j4HNThHQW/?igshid=kcd3hah1bvhw"
     
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
