@@ -159,7 +159,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 .integrante:nth-of-type(1){
-    background-color:#ccffff;
+    background-color:#999;
     background-image:url('media/Diana catalan.png');
     background-position: bottom right;
     background-size:auto 90%;
@@ -168,7 +168,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 
 
 .integrante:nth-of-type(2){
-    background:#ccffff;
+    background:#999;
     background-image:url('media/Sophia lopez.png');
     background-position: bottom right;
     background-size:auto 90%;
@@ -176,7 +176,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 .integrante:nth-of-type(3){
-    background:#ccffff;
+    background:#999;
     background-image:url('media/Josefina Maige.png');
     background-position: bottom right;
     background-size:auto 90%;
