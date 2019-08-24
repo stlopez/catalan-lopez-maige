@@ -21,7 +21,7 @@ var trabajos = [{
     alt: "Descripción de la imagen",
     title: "Mobiliario público",
     about: "Raulí y acero, instalado en Puente Pedro de Valdivia.",
-    url: "https://www.google.cl/"
+    url: "https://www.instagram.com/p/B1kCpaOheq_/"
 }, {
     figure: "media/alcatraz-maige-2017.jpg",
     alt: "alcatraz papel",
