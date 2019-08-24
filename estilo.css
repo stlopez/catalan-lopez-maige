@@ -231,8 +231,8 @@ AHORA VAMOS POR PORTAFOLIO
     .item{
         width:48%;
         margin:1%;
-        background:#333;
-        color:#eee;
+        background:#fff;
+        color:#c20000;
     }
 }
  @media screen and (max-width: 576px){
