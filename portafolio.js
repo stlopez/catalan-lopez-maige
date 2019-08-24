@@ -26,7 +26,7 @@ var trabajos = [{
     figure: "media/alcatraz-maige-2017.jpg",
     alt: "alcatraz papel",
     title: "Abstracción Alcatraz",
-    about: "Abstracción de un alcatraz en papel hilado 180."
+    about: "Abstracción de un alcatraz en papel hilado 180.",
     url: 
 }, {
     figure: "media/oma_lopez-maige-suarez-vallejos_2018.jpg",
