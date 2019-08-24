@@ -9,7 +9,7 @@ var trabajos = [{
     alt: "bonciña",
     title: "Bonciña",
     about: "Producto alimenticio en base a gelatina de aga-agar, açai y leche condensada, en una galleta de granola, quinoa y coco.",
-    url: "https://www.google.cl/"
+    url: "https://www.instagram.com/p/B1jozEsBOQp/?igshid=1lzebvw38ljve"
 }, {
     figure: "media/insectnativ-catalan-2019.jpg",
     alt: "insecta nativa",
