@@ -253,11 +253,11 @@ AHORA VAMOS POR PORTAFOLIO
      width:100%;
      height:auto;
      margin-bottom:-4px;
-     filter: saturate(75%);
+     filter: saturate(60%);
 }
  .item:hover figure img{
      transform:scale(1.5);
-     filter: saturate(100%);
+     filter: saturate(110%);
      transition:all ease-out 1s;
 }
  .item h4{
