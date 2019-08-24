@@ -2,38 +2,37 @@ var trabajos = [{
     figure: "media/eym1s_catalan-lopez-maige_2019.jpg",
     alt: "banca_terciado3mm",
     title: "Banca de terciado",
-    about: "Banca de terciado de 3 milímetros, de 1.20x0.3x0.4 mts."
+    about: "Banca de terciado de 3mm, de 1.20x0.3x0.4mts."
 }, {
     figure: "media/boncina_lopez-maige-suarez-2018.jpg",
-    alt: "Bonciña",
+    alt: "bonciña",
     title: "Bonciña",
     about: "Producto alimenticio en base a gelatina de aga-agar, açai y leche condensada, en una galleta de granola, quinoa y coco."
 }, {
     figure: "media/insectnativ-catalan-2019.jpg",
-    alt: "Descripción de la imagen",
-    title: "Título de tercer trabajo",
-    about: "Estampado en tela"
+    alt: "insecta nativa",
+    title: "Insecta Nativa",
+    about: "Estampado en tela para serígrafia, 120x100cms."
 }, {
     figure: "media/myp1s_bonnefoy-lobos-lopez-ramirez-saldivia_2017.jpg",
     alt: "Descripción de la imagen",
-    title: "Título de cuarto trabajo",
-    about: "Texto simulado de descripción de cuarto trabajo"
+    title: "Mobiliario público",
+    about: "Raulí y acero, instalado en Puente Pedro de Valdivia."
 }, {
     figure: "media/alcatraz-maige-2017.jpg",
     alt: "alcatraz papel",
     title: "Abstracción Alcatraz",
-    about: "Abstracción de un alcatraz en papel hilado 180"
+    about: "Abstracción de un alcatraz en papel hilado 180."
 }, {
     figure: "media/oma_lopez-maige-suarez-vallejos_2018.jpg",
     alt: "oma",
     title: "OMA",
-    about: "Ortesis, esqueleto de cobre y recubrimiento de cobre"
+    about: "Ortesis, esqueleto de cobre y recubrimiento de cobre."
 }, {
     figure: "media/estoy_lopez_2019.JPG",
-    alt: "Descripción de la imagen",
+    alt: "estoy",
     title: "estoy?",
-    author:"Sophia López",
-    about: "Acrílico sobre tela, 160x75cms"
+    about: "Acrílico sobre tela, 160x75cms."
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
 $.each(trabajos, function(i, val) {
