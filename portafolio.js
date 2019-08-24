@@ -33,7 +33,7 @@ var trabajos = [{
     alt: "oma",
     title: "OMA",
     about: "Ortesis, esqueleto de cobre y recubrimiento textil.",
-    url: "https://www.google.cl/"
+    url: "https://www.instagram.com/p/B1j-xBGhFb0/"
 }, {
     figure: "media/estoy_lopez_2019.JPG",
     alt: "estoy",
