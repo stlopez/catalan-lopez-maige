@@ -26,7 +26,6 @@ h1, h2{
     color:#FFFFFF; /* lo básico, para evitar problemas */
     color:rgba(255,255,255,0.8); /* si el navegador lo entiende, lo usa */
     margin-left:4rem;
-    margin-top:3rem;
     text-align:left;
     letter-spacing:0.1em;
     font-weight:900;
@@ -34,6 +33,7 @@ h1, h2{
 
 h1{
     font-size:4rem;
+    margin-top:3rem;
 }
 
 h2{
