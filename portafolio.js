@@ -32,7 +32,7 @@ var trabajos = [{
     figure: "media/oma_lopez-maige-suarez-vallejos_2018.jpg",
     alt: "oma",
     title: "OMA",
-    about: "Ortesis, esqueleto de cobre y recubrimiento de cobre.",
+    about: "Ortesis, esqueleto de cobre y recubrimiento textil.",
     url: 
 }, {
     figure: "media/estoy_lopez_2019.JPG",
