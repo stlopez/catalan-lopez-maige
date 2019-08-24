@@ -15,7 +15,7 @@ var trabajos = [{
     alt: "insecta nativa",
     title: "Insecta Nativa",
     about: "Estampado en tela para serígrafia, 120x100cms.",
-    url: "https://www.google.cl/"
+    url: "https://www.instagram.com/p/B1jwrLCBRRs/?igshid=c2mbq2ib8ucv"
 }, {
     figure: "media/myp1s_bonnefoy-lobos-lopez-ramirez-saldivia_2017.jpg",
     alt: "Descripción de la imagen",
@@ -27,7 +27,7 @@ var trabajos = [{
     alt: "alcatraz papel",
     title: "Abstracción Alcatraz",
     about: "Abstracción de un alcatraz en papel hilado 180.",
-    url: "https://www.google.cl/"
+    url: "https://www.instagram.com/p/B1jwgZOheWc/?igshid=1e973ojtopspc"
 }, {
     figure: "media/oma_lopez-maige-suarez-vallejos_2018.jpg",
     alt: "oma",
