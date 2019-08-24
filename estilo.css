@@ -59,12 +59,12 @@ h5, h6{
 }
 
 a{
-    color:rgb(155,0,0);
+    color:#999;
     text-decoration:none;
 }
 
 a:hover{
-    color:rgb(255,0,0);
+    color:#fff;
     text-decoration:underline;
 }
 
@@ -222,8 +222,8 @@ AHORA VAMOS POR PORTAFOLIO
 .item {
     width:23%;
     margin:1%;
-    color:#333;
-    background:#eee;
+    color:#fff;
+    background:#c20000;
     box-shadow:0 0 5px rgba(0,0,0,.5);
 }
 
