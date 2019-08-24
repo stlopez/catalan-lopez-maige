@@ -27,12 +27,13 @@ var trabajos = [{
     figure: "media/oma_lopez-maige-suarez-vallejos_2018.jpg",
     alt: "oma",
     title: "OMA",
-    about: "Dispositivo asd"
+    about: "Ortesis, esqueleto de cobre y recubrimiento de cobre"
 }, {
     figure: "media/estoy_lopez_2019.JPG",
     alt: "Descripción de la imagen",
-    title: "Título de séptimo trabajo",
-    about: "Texto simulado de descripción de séptimo trabajo"
+    title: "estoy?",
+    author:"Sophia López",
+    about: "Acrílico sobre tela, 160x75cms"
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
 $.each(trabajos, function(i, val) {
