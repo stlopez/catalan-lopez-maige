@@ -33,6 +33,11 @@ var trabajos = [{
     alt: "estoy",
     title: "estoy?",
     about: "Acrílico sobre tela, 160x75cms."
+}, {
+    figure: "media/fiori_lopez_2017.JPG",
+    alt: "Fiori",
+    title: "Fiori",
+    about: "Acuarela sobre papel, 45x21cms"
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
 $.each(trabajos, function(i, val) {
