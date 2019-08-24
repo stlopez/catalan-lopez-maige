@@ -29,7 +29,7 @@ var trabajos = [{
     title: "OMA",
     about: "Dispositivo asd"
 }, {
-    figure: "media/trabajo-07-materiales.jpg",
+    figure: "media/estoy_lopez_2019.JPG",
     alt: "Descripción de la imagen",
     title: "Título de séptimo trabajo",
     about: "Texto simulado de descripción de séptimo trabajo"
