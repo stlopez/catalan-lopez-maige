@@ -192,7 +192,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 }
 
 .integrante:nth-of-type(2):hover{
-    background:#ffcccc;
+    background:#ff9999;
     background-image:url('media/Sophialopez si.png');
     background-position: bottom right;
     background-size:auto 90%;
