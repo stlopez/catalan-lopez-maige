@@ -24,10 +24,11 @@ body{
 h1, h2{
     font-family: 'Montserrat', sans-serif;
     color:#FFFFFF; /* lo básico, para evitar problemas */
-    color:rgba(255,255,255,0.8); /* si el navegador lo entiende, lo usa */
+    color:rgba(255,255,255); /* si el navegador lo entiende, lo usa */
     margin-left:4rem;
     text-align:left;
     letter-spacing:0.1em;
+    text-shadow: 2px 2px 5px #000000;
     
 }
 
