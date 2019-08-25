@@ -11,11 +11,11 @@ var trabajos = [{
     about: "Producto alimenticio en base a gelatina de aga-agar, açai y leche condensada, en una galleta de granola, quinoa y coco.",
     url: "https://www.instagram.com/p/B1jozEsBOQp/?igshid=1lzebvw38ljve"
 }, {
-    figure: "media/insectnativ-catalan-2019.jpg",
-    alt: "insecta nativa",
-    title: "Insecta Nativa",
-    about: "Estampado en tela para serígrafia, 120x100cms.",
-    url: "https://www.instagram.com/p/B1jwrLCBRRs/?igshid=c2mbq2ib8ucv"
+    figure: "media/oma_lopez-maige-suarez-vallejos_2018.jpg",
+    alt: "oma",
+    title: "OMA",
+    about: "Ortesis, esqueleto de cobre y recubrimiento textil.",
+    url: "https://www.instagram.com/p/B1j-xBGhFb0/"
 }, {
     figure: "media/myp1s_bonnefoy-lobos-lopez-ramirez-saldivia_2017.jpg",
     alt: "Descripción de la imagen",
@@ -29,11 +29,11 @@ var trabajos = [{
     about: "Abstracción de un alcatraz en papel hilado 180.",
     url: "https://www.instagram.com/p/B1jwgZOheWc/?igshid=1e973ojtopspc"
 }, {
-    figure: "media/oma_lopez-maige-suarez-vallejos_2018.jpg",
-    alt: "oma",
-    title: "OMA",
-    about: "Ortesis, esqueleto de cobre y recubrimiento textil.",
-    url: "https://www.instagram.com/p/B1j-xBGhFb0/"
+    figure: "media/insectnativ-catalan-2019.jpg",
+    alt: "insecta nativa",
+    title: "Insecta Nativa",
+    about: "Estampado en tela para serígrafia, 120x100cms.",
+    url: "https://www.instagram.com/p/B1jwrLCBRRs/?igshid=c2mbq2ib8ucv"
 }, {
     figure: "media/estoy_lopez_2019.JPG",
     alt: "estoy",
